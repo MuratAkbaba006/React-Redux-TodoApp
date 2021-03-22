@@ -1,4 +1,20 @@
+
 # Getting Started with Create React App
+
+Önemli Uyarı !!! projeyi kullanabilmek için 
+
+firebase/firebaseConfig.js 'de bulunan firebaseConfig 
+
+içerisine kendi oluşturmuş olduğunuz firebase web projesi 
+
+bilgilerini aktarmalısınız.
+
+uygulamada react-redux kullanılmıştır.FirebaseAuth 
+
+kullanarak Google hesabı ile oturum açılabilir durumdadır.
+
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
